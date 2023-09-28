@@ -1,5 +1,17 @@
-# AirBnB Clone - The Console
+# 0x05. AirBnB clone - RESTful API
+* Python
+* Back-end
+* API
+* Webserver
+* Flask 
+
+## AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+
+![download(3)](https://github.com/Official0mega/alx-low_level_programming/assets/122806822/cf696545-5024-4387-85d6-17d1d844786e)
+![download (3)](https://github.com/Official0mega/alx-low_level_programming/assets/122806822/ddb6d29f-3ca3-4d82-b4e0-0eed09261918)
+
+
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
@@ -154,8 +166,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+James David - [Github](https://github.com/Official0mega) / [Twitter](https://twitter.com/Official0mega)  
+Daniel Nyong Bassey - [Github](https://github.com/Danyhoney) / [Twitter](https://twitter.com/Danyhoney)
 
 Second part of Airbnb: Joann Vuong
 ## License
